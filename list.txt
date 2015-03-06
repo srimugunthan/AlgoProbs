@@ -1,0 +1,5 @@
+1. Activity Selection
+2. All pairs shortest path
+3. Maze problem
+4. Least common ancestor in a tree
+5. Weighted job scheduling
